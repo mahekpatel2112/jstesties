@@ -23,3 +23,4 @@ DATABASE_PASSWORD = "password=supersecretpassword123"
 def connect():
     print("This file is only for testing secret detection")
 
+ADD_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
